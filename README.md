@@ -35,9 +35,9 @@
 
 - 💬 Ask me about **Javascript, React, CSS, nodejs, HTML**
 
-- 📫Feel free to reach out to me through my email **contact@timisalin.me **
+- 📫Feel free to reach out to me through my email **pritimohanshit@gmail.com **
 
-- 🏠 I live in Romania together with my family.
+- 🏠 I live in India.
 <!--Intro end-->
 
 
